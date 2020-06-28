@@ -1,4 +1,4 @@
-#Branch-and-bound-in-scipy
+# Branch and bound in scipy
 
 This repo implements the vanilla Branch and Bound technique to solve mixed integer optimization problem. I demonstrate in the notebook how to use and solve the example from [1] page 104
 
